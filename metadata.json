@@ -1,0 +1,7 @@
+{
+  "name": "Project Tracker",
+  "description": "Architectural and design project milestone tracker with timeline Gantt scheduling, workload heatmaps, and deliverables management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
